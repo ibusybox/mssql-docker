@@ -1,3 +1,6 @@
+# 201808 更新 Update
+1. 支持中文字符集
+
 # SQL Server in Docker
 
 This GitHub repository aims to provide a centralized location for community engagement. In here you will find documentation, Dockerfiles and additional developer resources. 
